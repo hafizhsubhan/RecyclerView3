@@ -26,7 +26,7 @@ public class DetailActivity extends AppCompatActivity {
         ImageView ivFoto = (ImageView) findViewById(R.id.imageFoto);
         ivFoto.setImageURI(Uri.parse(hotel.foto));
         TextView tvDeskripsi = (TextView) findViewById(R.id.place_detail);
-        tvDeskripsi.setText(hotel.desikripsi + "\n\n" + hotel.detail);
+        tvDeskripsi.setText(hotel.deskripsi + "\n\n" + hotel.detail);
         TextView tvLokasi = (TextView) findViewById(R.id.place_location);
         tvLokasi.setText(hotel.lokasi);
 

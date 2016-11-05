@@ -61,7 +61,7 @@ public class InputActivity extends AppCompatActivity {
 
     private void fillData() {
         etJudul.setText(hotel.judul);
-        etDeskripsi.setText(hotel.desikripsi);
+        etDeskripsi.setText(hotel.deskripsi);
         etDetail.setText(hotel.detail);
         etLokasi.setText(hotel.lokasi);
         uriFoto = Uri.parse(hotel.foto);
