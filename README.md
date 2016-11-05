@@ -10,5 +10,5 @@ XIIRPL-5 (19)<br>
 ![Skrinsut1](Recycler3.png)
 ![Skrinsut2](Recycler3.2.png)
 ![Skrinsut3](Recycler3.3.png)
-![Skrinsut4](Recycler3.4.png)
+![Skrinsut4](Recylcer3.4.png)
 ![Skrinsut5](Recycler3.5.png)
