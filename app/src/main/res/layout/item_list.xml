@@ -84,7 +84,7 @@
             android:layout_below="@+id/textViewDeskripsi"
             android:layout_marginRight="16dp"
             android:tint="#757575"
-            app:srcCompat="@drawable/ic_favorite_black_24dp" />
+            app:srcCompat="@drawable/ic_share_black_24dp" />
 
     </RelativeLayout>
 </android.support.v7.widget.CardView>
